@@ -1,0 +1,51 @@
+VET INSTITUTIONS OWNERSHIP,TYPE OF DISABILITY,MALE,FEMALE,TOTAL
+Central Government,Albino,4,8,12
+Central Government,Autism,1,4,5
+Central Government,Blind,4,4,8
+Central Government,Deaf,42,232,274
+Central Government,Deaf-Blind,1,3,4
+Central Government,Mental,9,13,22
+Central Government,Physical,18,15,33
+Civil Society Organization,Albino,0,2,2
+Civil Society Organization,Autism,0,0,0
+Civil Society Organization,Blind,0,0,0
+Civil Society Organization,Deaf,2,4,6
+Civil Society Organization,Deaf-Blind,0,0,0
+Civil Society Organization,Mental,0,2,2
+Civil Society Organization,Physical,22,32,54
+Faith-Based Organization ,Albino,1,0,1
+Faith-Based Organization ,Autism,1,0,1
+Faith-Based Organization ,Blind,0,0,0
+Faith-Based Organization ,Deaf,4,9,13
+Faith-Based Organization ,Deaf-Blind,0,0,0
+Faith-Based Organization ,Mental,1,0,1
+Faith-Based Organization ,Physical,48,53,101
+Local Government,Albino,12,5,17
+Local Government,Autism,0,0,0
+Local Government,Blind,0,2,2
+Local Government,Deaf,14,8,22
+Local Government,Deaf-Blind,4,2,6
+Local Government,Mental,7,5,12
+Local Government,Physical,13,4,17
+Private Company,Albino,17,15,32
+Private Company,Autism,0,0,0
+Private Company,Blind,1,2,3
+Private Company,Deaf,4,3,7
+Private Company,Deaf-Blind,0,0,0
+Private Company,Mental,0,1,1
+Private Company,Physical,12,11,23
+Private Individual,Albino,0,5,5
+Private Individual,Autism,0,0,0
+Private Individual,Blind,0,1,1
+Private Individual,Deaf,2,2,4
+Private Individual,Deaf-Blind,0,0,0
+Private Individual,Mental,0,0,0
+Private Individual,Physical,14,10,24
+Vocational Education and Training Authority,Albino,1,0,1
+Vocational Education and Training Authority,Autism,0,0,0
+Vocational Education and Training Authority,Blind,0,0,0
+Vocational Education and Training Authority,Deaf,5,2,7
+Vocational Education and Training Authority,Deaf-Blind,0,0,0
+Vocational Education and Training Authority,Mental,0,0,0
+Vocational Education and Training Authority,Physical,0,3,3
+GRAND TOTAL,,264,462,726
